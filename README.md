@@ -41,12 +41,6 @@ The export and logging capabilities in <a href="#">WiFi Scanner</a> support docu
 
 ---
 
-<p align="center">
-  <img src="https://static.macupdate.com/screenshots/322077/m/wifi-scanner-screenshot.png?v=1641230280" alt="WiFiScanner screenshot"/>
-</p>
-
----
-
 ## Additional Information
 
 WiFi Scanner requires macOS 10.13 or later and is compatible with Intel and Apple Silicon hardware. The full perpetual license covers all wireless analysis, monitoring, and reporting capabilities with no subscription costs.
